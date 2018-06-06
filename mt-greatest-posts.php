@@ -8,6 +8,7 @@ Author: Marcel Tannich
 Author URI: https://tannich.com
 */
 ?>
+
 <?php
 
 add_action( 'widgets_init', 'gp_widget_load' );
